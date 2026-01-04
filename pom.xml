@@ -71,7 +71,7 @@
                 <version>3.5.1</version>
                 <configuration>
                     <to>
-                        <image>${project.artifactId}:${project.version}</image>
+                        <image>abhisamd02/${project.artifactId}:${project.version}</image>
                     </to>
                 </configuration>
             </plugin>
